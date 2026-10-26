@@ -1,5 +1,5 @@
 hi there, call me yerassyl
 
-just a software engineer who learned to enjoy his life
+i'm a software engineer. i like building products that people use every day
 
-get to know more about me: https://yerassyl.vercel.app
+get to know more about me: https://www.manyports.com/
